@@ -1,0 +1,41 @@
+
+
+*{
+    margin: 0 auto;
+    width: 800px;
+    margin-top: 05px;
+}
+
+
+.btn{
+    width : 80px;
+    height: 30px;
+    color: white;
+    background-color: #76a5af;
+    box-shadow: 5px 5px 5px black;
+    border: 3px black  solid;
+    margin-left: 150px;
+
+}
+
+
+.form {
+    display: flex;
+}
+
+input{
+    width: 200px;
+    text-align: left;
+    align-items: end;
+
+}
+
+label {
+    display: inline-block;
+    clear: left;
+    width: 150px; 
+
+}
+
+
+
